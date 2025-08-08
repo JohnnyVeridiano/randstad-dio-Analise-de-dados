@@ -1,0 +1,33 @@
+[ação]
+
+create a script to create a table in postgreeSql
+
+[Context]
+
+the first table is a table to save a pokemon tcg cards
+- second table is a table to save collections stage
+
+connect to table with foreign key
+
+[informações]
+
+fisrt table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- informações-attack
+- dammage
+- weake
+- ressis
+- retreat
+- cardNumberInCollection
+- 
+
+the second table: tbl_collections
+
+- id
+- collectionSetName
+- release Date
+= totalCardsIncollection

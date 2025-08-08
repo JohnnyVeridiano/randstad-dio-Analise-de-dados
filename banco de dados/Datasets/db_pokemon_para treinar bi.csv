@@ -1,0 +1,86 @@
+cards_id,card_name,hp,card_type,card_stage,attackInfo,damage,weakness,resistance,retreatCost,cardNumberInCollection,collection_name,release_date,totalCardsInCollection
+1,Pikachu,40,Electric,Basic,"Thunder Shock",30,Fighting,Metal,1,025/102,"Base Set",1999-01-09,102
+44,Pikachu,60,Electric,Basic,"Thunder Shock",30,Ground,Flying,1,001/100,"Base Set",1999-01-09,102
+60,Rattata,40,Electric,Basic,Tackle,10,Fighting,Ghost,1,017/100,"Team Rocket",2000-04-24,83
+79,Mareep,40,Electric,Basic,"Thunder Wave",20,Ground,Flying,1,116/150,Jungle,1999-06-16,64
+80,Flaaffy,60,Electric,"Stage 1",Spark,30,Ground,Flying,2,117/150,Jungle,1999-06-16,64
+81,Ampharos,90,Electric,"Stage 2",Thunderbolt,80,Ground,Flying,3,118/150,Jungle,1999-06-16,64
+90,Steelix,70,Electric,"Stage 2","Iron Tail",80,Fire,Flying,3,127/150,Jungle,1999-06-16,64
+91,Scizor,60,Electric,"Stage 2","Bullet Punch",70,Fire,Grass,2,128/150,Jungle,1999-06-16,64
+97,Smeargle,80,Electric,Basic,Sketch,0,Fighting,Ghost,1,134/150,Jungle,1999-06-16,64
+101,Raikou,110,Electric,"Stage 2","Thunder Claw",80,Ground,Flying,3,138/150,Jungle,1999-06-16,64
+115,Tyrogue,40,Electric,Basic,Punch,20,Psychic,Dark,1,152/150,Jungle,1999-06-16,64
+118,Elekid,50,Electric,Basic,Shock,30,Ground,Flying,1,155/150,Jungle,1999-06-16,64
+2,Charizard,120,Fire,"Stage 2","Fire Spin",100,Water,Grass,3,004/102,"Base Set",1999-01-09,102
+45,Charizard,80,Fire,"Stage 2",Flamethrower,90,Water,Grass,3,002/100,"Base Set",1999-01-09,102
+55,Arcanine,80,Fire,"Stage 1","Flame Charge",60,Water,Grass,2,012/100,Fossil,1999-10-10,62
+59,Zubat,50,Fire,Basic,Bite,10,Electric,Psychic,1,016/100,"Team Rocket",2000-04-24,83
+61,Alakazam,70,Fire,"Stage 2",Psybeam,70,Dark,Fighting,2,018/100,"Team Rocket",2000-04-24,83
+67,Cyndaquil,50,Fire,Basic,Ember,30,Water,Grass,1,104/150,Jungle,1999-06-16,64
+68,Quilava,70,Fire,"Stage 1","Flame Wheel",50,Water,Grass,2,105/150,Jungle,1999-06-16,64
+69,Typhlosion,90,Fire,"Stage 2","Blast Burn",80,Water,Grass,3,106/150,Jungle,1999-06-16,64
+75,Sentret,50,Fire,Basic,Scratch,20,Fighting,Ghost,1,112/150,Jungle,1999-06-16,64
+87,Murkrow,60,Fire,Basic,"Night Shade",30,Electric,Psychic,1,124/150,Jungle,1999-06-16,64
+95,Ho-Oh,120,Fire,"Stage 2","Sacred Fire",90,Water,Grass,3,132/150,Jungle,1999-06-16,64
+100,Entei,110,Fire,"Stage 2","Volcanic Flame",80,Water,Grass,3,137/150,Jungle,1999-06-16,64
+104,Ursaring,70,Fire,"Stage 1",Slash,60,Fighting,Ghost,3,141/150,Jungle,1999-06-16,64
+117,Magby,50,Fire,Basic,"Fire Spark",30,Water,Grass,1,154/150,Jungle,1999-06-16,64
+3,Squirtle,60,Water,Basic,Bubble,20,Electric,Fire,1,007/102,"Base Set",1999-01-09,102
+46,Bulbasaur,70,Water,Basic,"Vine Whip",20,Fire,Water,1,003/100,"Base Set",1999-01-09,102
+49,Snorlax,110,Water,"Stage 2","Body Slam",100,Fighting,Ghost,4,006/100,Jungle,1999-06-16,64
+54,Machamp,100,Water,"Stage 2","Cross Chop",90,Psychic,Dark,3,011/100,Fossil,1999-10-10,62
+70,Totodile,50,Water,Basic,"Water Gun",30,Electric,Fire,1,107/150,Jungle,1999-06-16,64
+71,Croconaw,70,Water,"Stage 1","Aqua Jet",40,Electric,Fire,2,108/150,Jungle,1999-06-16,64
+72,Feraligatr,100,Water,"Stage 2","Hydro Cannon",90,Electric,Fire,3,109/150,Jungle,1999-06-16,64
+76,Furret,70,Water,"Stage 1","Quick Attack",30,Fighting,Ghost,2,113/150,Jungle,1999-06-16,64
+84,Politoed,50,Water,"Stage 2","Bubble Beam",60,Electric,Fire,2,121/150,Jungle,1999-06-16,64
+86,Umbreon,90,Water,"Stage 2","Shadow Rush",70,Fighting,Psychic,2,123/150,Jungle,1999-06-16,64
+88,Slowking,100,Water,"Stage 2","Mind Control, Water Pulse","50,60",Electric,Fire,3,125/150,Jungle,1999-06-16,64
+99,Stantler,90,Water,Basic,Stomp,40,Fighting,Ghost,2,136/150,Jungle,1999-06-16,64
+102,Suicune,110,Water,"Stage 2","Crystal Wave",80,Electric,Fire,3,139/150,Jungle,1999-06-16,64
+106,Piloswine,90,Water,"Stage 1","Icicle Crash",70,Fire,Grass,2,143/150,Jungle,1999-06-16,64
+107,Corsola,80,Water,Basic,"Bubble Beam",40,Electric,Fire,1,144/150,Jungle,1999-06-16,64
+108,Mantine,70,Water,Basic,"Aqua Ring",30,Electric,Fire,2,145/150,Jungle,1999-06-16,64
+109,Phanpy,60,Water,Basic,Rollout,20,Water,Electric,1,146/150,Jungle,1999-06-16,64
+110,Donphan,90,Water,"Stage 1",Earthquake,80,Water,Electric,3,147/150,Jungle,1999-06-16,64
+113,Kingdra,100,Water,"Stage 2","Dragon Pump",90,Dragon,Fairy,3,150/150,Jungle,1999-06-16,64
+114,Octillery,60,Water,"Stage 1","Ink Blast",50,Electric,Fire,2,151/150,Jungle,1999-06-16,64
+121,Skarmory,100,Water,"Stage 1","Steel Wing",70,Fire,Grass,2,158/150,Jungle,1999-06-16,64
+4,Oddish,50,Grass,Basic,Absorb,10,Fire,Water,1,043/64,Jungle,1999-06-16,64
+47,Blastoise,90,Grass,"Stage 2","Hydro Pump",80,Electric,Fire,3,004/100,"Base Set",1999-01-09,102
+50,Magikarp,30,Grass,Basic,Splash,0,Electric,Fire,1,007/100,Jungle,1999-06-16,64
+51,Meowth,60,Grass,Basic,Scratch,20,Fighting,Ghost,1,008/100,Jungle,1999-06-16,64
+56,Lapras,70,Grass,"Stage 1",Surf,50,Electric,Fire,2,013/100,Fossil,1999-10-10,62
+57,Sandshrew,60,Grass,Basic,"Sand Attack",20,Water,Grass,1,014/100,"Team Rocket",2000-04-24,83
+62,Lucario,80,Grass,"Stage 1","Aura Sphere",60,Psychic,Dark,2,019/100,"Gym Heroes",2000-08-14,132
+64,Chikorita,40,Grass,Basic,"Razor Leaf",30,Fire,Water,1,101/150,Jungle,1999-06-16,64
+65,Bayleef,60,Grass,"Stage 1","Vine Whip, Seed Bomb","40,60",Fire,Water,2,102/150,Jungle,1999-06-16,64
+66,Meganium,80,Grass,"Stage 2","Solar Beam",70,Fire,Water,3,103/150,Jungle,1999-06-16,64
+77,Spinarak,60,Grass,Basic,"Poison Sting",30,Fire,Water,1,114/150,Jungle,1999-06-16,64
+78,Ariados,80,Grass,"Stage 1","Sticky Web",50,Fire,Water,2,115/150,Jungle,1999-06-16,64
+82,Bellossom,70,Grass,"Stage 2","Leaf Blade",70,Fire,Water,2,119/150,Jungle,1999-06-16,64
+92,Heracross,80,Grass,"Stage 1","Mega Horn",60,Psychic,Dark,2,129/150,Jungle,1999-06-16,64
+103,Teddiursa,50,Grass,Basic,Scratch,20,Fighting,Ghost,1,140/150,Jungle,1999-06-16,64
+111,Sunkern,40,Grass,Basic,Growth,10,Fire,Water,1,148/150,Jungle,1999-06-16,64
+112,Sunflora,60,Grass,"Stage 1","Petal Dance",40,Fire,Water,2,149/150,Jungle,1999-06-16,64
+116,Hitmontop,70,Grass,"Stage 1","Rapid Spin",40,Psychic,Dark,2,153/150,Jungle,1999-06-16,64
+122,Houndour,60,Grass,Basic,"Dark Fang",30,Water,Fairy,1,159/150,Jungle,1999-06-16,64
+123,Houndoom,90,Grass,"Stage 1","Inferno Howl",70,Water,Fairy,2,160/150,Jungle,1999-06-16,64
+5,Abra,70,Psychic,Basic,Psyshock,30,Bug,Fighting,1,069/102,"Base Set",1999-01-09,102
+48,Jigglypuff,50,Psychic,Basic,Sing,0,Steel,Dragon,1,005/100,Jungle,1999-06-16,64
+52,Gengar,70,Psychic,"Stage 2","Shadow Ball",70,Dark,Psychic,2,009/100,Jungle,1999-06-16,64
+53,Eevee,40,Psychic,Basic,"Quick Attack",10,Fighting,Psychic,1,010/100,Fossil,1999-10-10,62
+58,Dragonite,90,Psychic,"Stage 2","Dragon Tail",100,Ice,Fire,3,015/100,"Team Rocket",2000-04-24,83
+63,Togepi,60,Psychic,Basic,Charm,0,Steel,Dark,1,020/100,"Gym Heroes",2000-08-14,132
+73,Hoothoot,40,Psychic,Basic,Peck,20,Electric,Grass,1,110/150,Jungle,1999-06-16,64
+74,Noctowl,60,Psychic,"Stage 1","Wing Attack, Hypnosis","40,0",Electric,Grass,2,111/150,Jungle,1999-06-16,64
+83,Sudowoodo,100,Psychic,"Stage 1","Rock Throw, Mimic","40,0",Grass,Electric,2,120/150,Jungle,1999-06-16,64
+85,Espeon,90,Psychic,"Stage 2","Psychic Blast",70,Dark,Fighting,2,122/150,Jungle,1999-06-16,64
+89,Misdreavus,50,Psychic,Basic,"Confuse Ray",30,Dark,Normal,1,126/150,Jungle,1999-06-16,64
+93,Tyranitar,120,Psychic,"Stage 2","Crunch, Earthquake","50,80",Fighting,Psychic,4,130/150,Jungle,1999-06-16,64
+94,Lugia,90,Psychic,"Stage 2",Aeroblast,80,Electric,Fighting,3,131/150,Jungle,1999-06-16,64
+96,Celebi,60,Psychic,Basic,"Time Travel",40,Dark,Fighting,1,133/150,Jungle,1999-06-16,64
+98,Delibird,70,Psychic,Basic,Present,30,Electric,Fighting,1,135/150,Jungle,1999-06-16,64
+105,Swinub,60,Psychic,Basic,"Powder Snow",30,Fire,Grass,1,142/150,Jungle,1999-06-16,64
+119,Blissey,90,Psychic,"Stage 2","Healing Egg",60,Fighting,Ghost,3,156/150,Jungle,1999-06-16,64
+120,Miltank,80,Psychic,"Stage 1","Milk Drink, Tackle","0,40",Fighting,Ghost,2,157/150,Jungle,1999-06-16,64

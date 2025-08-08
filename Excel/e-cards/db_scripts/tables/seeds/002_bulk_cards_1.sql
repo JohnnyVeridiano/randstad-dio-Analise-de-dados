@@ -1,0 +1,22 @@
+INSERT INTO tbl_cards (hp, name, type_id, stage_id, attackInfo, damage, weakness, resistance, retreatCost, cardNumberInCollection, collection_id)
+VALUES
+(60, 'Pikachu', 1, 1, 'Thunder Shock', '30', 'Ground', 'Flying', 1, '001/100', 1),
+(80, 'Charizard', 2, 3, 'Flamethrower', '90', 'Water', 'Grass', 3, '002/100', 1),
+(70, 'Bulbasaur', 3, 1, 'Vine Whip', '20', 'Fire', 'Water', 1, '003/100', 1),
+(90, 'Blastoise', 4, 3, 'Hydro Pump', '80', 'Electric', 'Fire', 3, '004/100', 1),
+(50, 'Jigglypuff', 5, 1, 'Sing', '0', 'Steel', 'Dragon', 1, '005/100', 2),
+(110, 'Snorlax', 6, 3, 'Body Slam', '100', 'Fighting', 'Ghost', 4, '006/100', 2),
+(30, 'Magikarp', 4, 1, 'Splash', '0', 'Electric', 'Fire', 1, '007/100', 2),
+(60, 'Meowth', 7, 1, 'Scratch', '20', 'Fighting', 'Ghost', 1, '008/100', 2),
+(70, 'Gengar', 8, 3, 'Shadow Ball', '70', 'Dark', 'Psychic', 2, '009/100', 2),
+(40, 'Eevee', 5, 1, 'Quick Attack', '10', 'Fighting', 'Psychic', 1, '010/100', 3),
+(100, 'Machamp', 9, 3, 'Cross Chop', '90', 'Psychic', 'Dark', 3, '011/100', 3),
+(80, 'Arcanine', 2, 2, 'Flame Charge', '60', 'Water', 'Grass', 2, '012/100', 3),
+(70, 'Lapras', 4, 2, 'Surf', '50', 'Electric', 'Fire', 2, '013/100', 3),
+(60, 'Sandshrew', 10, 1, 'Sand Attack', '20', 'Water', 'Grass', 1, '014/100', 4),
+(90, 'Dragonite', 11, 3, 'Dragon Tail', '100', 'Ice', 'Fire', 3, '015/100', 4),
+(50, 'Zubat', 8, 1, 'Bite', '10', 'Electric', 'Psychic', 1, '016/100', 4),
+(40, 'Rattata', 7, 1, 'Tackle', '10', 'Fighting', 'Ghost', 1, '017/100', 4),
+(70, 'Alakazam', 12, 3, 'Psybeam', '70', 'Dark', 'Fighting', 2, '018/100', 4),
+(80, 'Lucario', 9, 2, 'Aura Sphere', '60', 'Psychic', 'Dark', 2, '019/100', 5),
+(60, 'Togepi', 5, 1, 'Charm', '0', 'Steel', 'Dark', 1, '020/100', 5);
